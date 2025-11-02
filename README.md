@@ -1,0 +1,1 @@
+The Smart Expense App is a personal finance tool designed to help users track their income and expenses, categorize spending and set financial goals. It enables users to gain better control over their finances through data driven insights, budget alerts, and goal progress tracking.
